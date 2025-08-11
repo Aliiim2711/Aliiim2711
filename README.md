@@ -20,44 +20,40 @@
 
 ## 🔥 Featured Projects
 
-### 🎨 Stylista AI - AI Fashion Recommendation System
+### 🎨 [Stylista AI](https://github.com/Aliiim2711/stylista-ai-recommendation) - AI Fashion Recommendation System
 *"Tinder for Clothes" - Swipe-based fashion discovery with machine learning*
 - **Tech**: Java, Android, AI/ML
 - **Innovation**: Advanced AI learns user preferences through swipe interactions
 
-### 📊 Personal Finance Dashboard  
+### 📊 [Personal Finance Dashboard](https://github.com/Aliiim2711/personal-finance-dashboard)  
 *Comprehensive financial insights and analytics platform*
 - **Tech**: TypeScript, Modern Web Stack
 - **Features**: Data visualization, financial tracking, analytics
 
-### 🎵 Music Streaming Platform
+### 🎵 [Music Streaming Platform](https://github.com/Aliiim2711/project_music_player)
 *Modern Spotify-inspired web application*
 - **Tech**: JavaScript, React, Web APIs
 - **Features**: Music player, search, lyrics, song exploration
 
-### 📈 Stock Prediction with Neural Networks
+### 📈 [Stock Prediction with Neural Networks](https://github.com/Aliiim2711/stock-prediction-gnn-lstm)
 *Advanced financial forecasting using GNN + LSTM*
 - **Tech**: Python, TensorFlow, Jupyter
 - **Innovation**: Graph Neural Networks combined with LSTM for market analysis
 
-### 🍔 Uber Eats Big Data Analytics
+### 🍔 [Uber Eats Big Data Analytics](https://github.com/Aliiim2711/uber-eats-streamlit-dashboard)
 *Comprehensive food delivery insights dashboard*
 - **Tech**: Python, Apache Spark, Apache Hive, Apache Zeppelin, Streamlit
 - **Scale**: Big Data processing and visualization
 
-### 🤖 LLM Server
+### 🤖 [LLM Server](https://github.com/Aliiim2711/LLM-Server)
 *Custom language model deployment and serving*
 - **Tech**: Python, Machine Learning Infrastructure
 - **Focus**: Large Language Model optimization and deployment
 
-### 💪 FitOn App
+### 💪 [FitOn App](https://github.com/Aliiim2711/fiton-app)
 *Fitness and wellness application*
 - **Tech**: Python, Jupyter Notebook
 - **Domain**: Health & Fitness technology
-
-## 📈 GitHub Stats
-
-![Alim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aliiim2711&show_icons=true&theme=radical)
 
 ## 🔗 Connect With Me
 
