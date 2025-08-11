@@ -1,4 +1,4 @@
-# Hey There!, I am Alim 
+# Hey There!, I am Aleem Wadhwaniya
 
 ### 「 I am a full stack developer & AI engineer building innovative applications with modern technologies 」
 
