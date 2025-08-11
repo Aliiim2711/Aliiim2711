@@ -61,4 +61,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
 
 ---
-⭐️ From [Aliiim2711](https://github.com/Aliiim2711)
